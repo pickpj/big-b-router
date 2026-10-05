@@ -30,7 +30,7 @@ TLDR:
   
 ## Requirements  
 Tested with:  
-`conda create -n gis-py312 -c conda-forge geopandas folium pyrosm pyosmium notebook ipyleaflet osmium-tool`  
+`conda create -n gis-py312 -c conda-forge geopandas folium pyrosm pyosmium notebook ipyleaflet osmium-tool jupyter`  
 
 ### cli tool:  
 - [osmium-tool](https://osmcode.org/osmium-tool/)  
@@ -43,6 +43,7 @@ Tested with:
 - pyrosm  
 - pyosmium/osmium (pyosmium in conda-forge, but osmium in pypi ; very confusing)  
 - ipyleaflet  
+- jupyter  
 
 ---
 ### My recommendation for what app to use:  
