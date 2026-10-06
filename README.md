@@ -29,7 +29,7 @@ TLDR:
 - Transfer OBF file to phone and import with OsmAnd  
   
 ## Requirements  
-Tested with:  
+Tested with (on Oct 5. 26):  
 `conda create -n gis-py312 -c conda-forge geopandas folium pyrosm pyosmium notebook ipyleaflet osmium-tool jupyter`  
 
 ### cli tool:  
